@@ -1,4 +1,3 @@
-import { Optional } from '@nestjs/common';
 import { IsNotEmpty, IsOptional, IsString, MaxLength } from 'class-validator';
 
 export class CreateCategoryDto {
